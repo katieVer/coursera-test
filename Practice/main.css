@@ -1,3 +1,7 @@
-div p {
+#mySection {
+	color: green;
+}
+
+.myColor {
 	color: blue;
 }
